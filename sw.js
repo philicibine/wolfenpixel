@@ -1,5 +1,5 @@
 // WolfenPixel 3D service worker - offline cache
-var CACHE = 'wolfenpixel-v1';
+var CACHE = 'wolfenpixel-v2';
 var ASSETS = [
   './',
   './index.html',
